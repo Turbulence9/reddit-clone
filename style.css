@@ -1,0 +1,55 @@
+#newPostButton {
+  float: right;
+
+}
+
+#titleBar {
+  height: 60px;
+  border: 2px solid darkgray;
+  background-color: #f2f2f2;
+  border-radius: 2px;
+}
+
+#navBar {
+  height: 30px;
+  padding: 10px;
+}
+
+#form {
+  padding: 10px;
+}
+
+.posts {
+  border: 2px solid darkgray;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+/*#form input[value=text] {
+  width: 400px;
+}*/
+
+body {
+  margin: 0;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+#postAuthor {
+  float: right;
+}
+
+/*#postBody {
+  display: inline-block;
+  width: 800px;
+}
+
+#content {
+  width: 100%;
+  height: 300px;
+}*/
